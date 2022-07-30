@@ -1,6 +1,6 @@
 # i_am_poor
 
-A new Flutter project.
+It is a flutter project showcaseing an app names I am Poor with a coal image at it centre denoting that the user is poor and has downloaded the app to showcase it.
 
 ## Getting Started
 
